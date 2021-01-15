@@ -10,5 +10,6 @@ public class Duoming {
         System.out.println("孤独九剑");
         System.out.println("孤独九剑");
         System.out.println("孤独九剑");
+        System.out.println("孤独九剑");
     }
 }
